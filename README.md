@@ -1,6 +1,6 @@
-# Presentación de Ciber Girls
+# Presentación de CiberGirls
 
-¡Bienvenidos a Ciber Girls!
+¡Bienvenidos a CiberGirls!
 
 ## Acerca de Nosotras
 
